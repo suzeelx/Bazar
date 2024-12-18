@@ -14,9 +14,9 @@ You can perform these steps to run in your local.
      ``` 
     virtualenv env
      ```
-8. Actiate the environment
+8. Actiate the environment ( on Windows using Power Shell)
    ```
-    env/Scripts/activate ( on Windows using Power Shell)
+    env/Scripts/activate 
    ```
 10. Type pip install -r requirements.txt in the terminal window to install all the requirements to run the app.
     ```
