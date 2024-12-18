@@ -23,4 +23,7 @@ You can perform these steps to run in your local.
      pip install -r requirements.txt
     ```
 12. Type python manage.py runserver to start a localhost server for the app.
+    ```
+    python manage.py runserver
+    ```
 
