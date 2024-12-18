@@ -18,15 +18,8 @@ You can perform these steps to run in your local.
    ```
     env/Scripts/activate 
    ```
-9.  Install Django.
-    ```
-    pip install django
-    ```  
-10. Generate the requirements.txt file by using the pip freeze command:
-    ```
-    pip freeze > requirements.txt
-    ``` 
-13. Type pip install -r requirements.txt in the terminal window to install all the requirements to run the app.
+
+9. Type pip install -r requirements.txt in the terminal window to install all the requirements to run the app.
     ```
      pip install -r requirements.txt
     ```
