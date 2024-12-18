@@ -23,8 +23,9 @@ You can perform these steps to run in your local.
     ```
      pip install -r requirements.txt
     ```
-14. Type python manage.py runserver to start a localhost server for the app.
+10. Type python manage.py runserver to start a localhost server for the app.
     ```
     python manage.py runserver
     ```
+11. Open the development server by clicking on the URL link in command and browse the site.
 
